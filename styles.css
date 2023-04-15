@@ -79,3 +79,16 @@ footer {
   margin: 10px;
   background-color: white;
 }
+
+footer{
+  color: #575b67;
+}
+
+a{
+  text-decoration: none;
+  color: rgb(129, 131, 134);
+}
+
+a:hover{
+  color: rgb(188, 194, 204);
+}
